@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-privacyscreen-sparkle",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Secures your app from displaying a screenshot in task switchers under Android and iOS. Keeps sensitive information private.",
   "cordova": {
     "id": "cordova-plugin-privacyscreen-sparkle",
